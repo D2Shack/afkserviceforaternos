@@ -29,8 +29,8 @@ var bot = mineflayer.createBot({
 
 bot.on('login', function() {
 	console.log("Logged In")
-	bot.chat("Hi, I'm No Name Bot from No Name Studio VN. My mission here is to track survivors' activities, guide them and protect all the monument in the server.")
-    bot.chat("Hope you guys will have the best experience in this server! - From MyT with love!")
+	bot.chat("Hi, I'm Burly Bot from TheCommunity Studio tcy. My mission here is to track survivors' activities, guide them and protect all the monument in the server.")
+    bot.chat("Hope you guys will have the best experience in this server! - From Godly#2333 with love!")
 });
 
 bot.on('time', function(time) {
