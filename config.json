@@ -1,8 +1,8 @@
 {
-	"ip": "manhbi18112005.aternos.me",
-	"username": "NoNameBot",
-	"port": 47356,
-	"autonightskip": false,
+	"ip": "DARKpixle.aternos.me",
+	"username": "BurlyBot",
+	"port": 21823,
+	"autonightskip": true,
 	"pi": 3.14159,
 	"moveinterval": 2,
 	"maxrandom": 5
